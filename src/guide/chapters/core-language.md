@@ -107,7 +107,7 @@ Now let's make a function that tells us if a number is over 9000.
 "It's over 9000!!!"
 ```
 
-Using a backslash in the REPL lets us split things on to multiple lines. We use this in the definition of `over9000` above. Furthermore, it is best practice to always bring the body of a function down a line. It makes things a lot more uniform and easy to read, so you want to do this with all the functions and values you define in normal code.
+Using a backslash in the REPL lets us split things on to multiple lines. We use this in the definition of `over9000` above. Just make sure to indent the following line(s), otherwise you will see an error message. Furthermore, it is best practice to always bring the body of a function down a line. It makes things a lot more uniform and easy to read, so you want to do this with all the functions and values you define in normal code.
 
 
 ## Lists
